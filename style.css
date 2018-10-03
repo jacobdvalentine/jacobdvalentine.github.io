@@ -3,6 +3,11 @@
 body {
 	background: #E8E4E4;
 }
+/* Title headers */
+.title {
+	text-align: center;
+	padding-bottom: 2rem;
+}
 /* Slider */
 .slider-img{
 	width: 100%;
