@@ -8,6 +8,10 @@ body {
 	text-align: center;
 	padding-bottom: 2rem;
 }
+.proj1-title {
+	text-align: center;
+	padding-top: 2rem;
+}
 /* Slider */
 .slider-img{
 	width: 100%;
